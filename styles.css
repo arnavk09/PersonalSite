@@ -218,7 +218,7 @@ section .title::after {
 
 /* about */
 .about .title::after {
-  content: "who i am";
+  content: "Who I Am";
 }
 .about .about-content .left {
   width: 45%;
@@ -263,7 +263,7 @@ section .title::after {
 /* skills*/
 
 .skills .title::after {
-  content: "what i know";
+  content: "What I Know";
 }
 .skills .skills-content .column {
   width: calc(50% - 30px);
@@ -336,7 +336,7 @@ section .title::after {
 }
 /* contact*/
 .contact .title::after {
-  content: "get in touch";
+  content: "Get In Touch";
 }
 .contact .contact-content .column {
   width: calc(50% - 30px);
@@ -444,7 +444,7 @@ footer span a:hover {
   text-decoration: underline;
 }
 
-/* responsive media*/
+/* responsive stuff*/
 @media (max-width: 1104px) {
   .about .about-content .left img {
     height: 350px;
