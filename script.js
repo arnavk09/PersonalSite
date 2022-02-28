@@ -29,14 +29,14 @@ $(document).ready(function () {
   });
 
   var typed = new Typed(".typing", {
-    strings: ["Web Developer", "Student", "Front End Design Enthusiast"],
+    strings: ["Machine Learning Enthusiast", "Student", "Web Developer"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true,
   });
 
   var typed = new Typed(".typing-2", {
-    strings: ["Web Developer", "Student", "Front End Design Enthusiast"],
+    strings: ["Machine Learning Enthusiast", "Student", "Web Developer"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true,
